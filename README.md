@@ -107,7 +107,6 @@ Data-Analysis-Portfolio/
 <img width="1397" height="908" alt="Screenshot 2026-08-31 170009" src="https://github.com/user-attachments/assets/65731788-9a53-4bde-ac89-b4ebdbc8bc52" />
 <img width="1390" height="906" alt="Screenshot 2026-08-31 170017" src="https://github.com/user-attachments/assets/9c1a8074-991a-457e-9519-7d4848a72c19" />
 
-[Insert screenshot here]
 
 **Adidas Dashboard** — Tracks operating margin shifts by year, store location, and product category.
 *Data source:* Adidas Sales Dataset (Kaggle).
@@ -118,7 +117,6 @@ Data-Analysis-Portfolio/
 <img width="1044" height="868" alt="Screenshot 2026-08-31 170752" src="https://github.com/user-attachments/assets/e1b9e463-15d3-44f1-8319-72f0476e8286" />
 <img width="1026" height="864" alt="Screenshot 2026-08-31 170801" src="https://github.com/user-attachments/assets/fc2c1c9e-05b0-4cfe-a8cb-ed7da478da43" />
 
-[Insert screenshot here]
 
 ---
 
